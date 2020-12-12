@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sevming)](https://github.com/sevming/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sevming&theme=dracula)](https://github.com/sevming/github-readme-stats)
 
 <!--
 ### Hi there 👋
